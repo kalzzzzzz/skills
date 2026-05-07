@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <!-- 整页底图：包含国药集团Logo、中央公司Logo、底部纹样 -->
+  <!-- 底图已包含所有品牌元素和文字，无需额外添加 -->
+  <image x="0" y="0" width="1280" height="720" href="bg_ending.png" preserveAspectRatio="none"/>
+</svg>

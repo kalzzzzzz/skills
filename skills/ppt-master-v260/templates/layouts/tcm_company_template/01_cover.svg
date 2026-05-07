@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <!-- 整页底图：包含红色纹样背景、国药集团Logo、公司完整Logo -->
+  <image x="0" y="0" width="1280" height="720" href="bg_cover.png" preserveAspectRatio="none"/>
+
+  <!-- 标题区域 - 白色文字在红色背景上 -->
+  <text x="640" y="300" text-anchor="middle" font-family="微软雅黑, Microsoft YaHei, sans-serif" font-size="48" font-weight="bold" fill="#FFFFFF">{{TITLE}}</text>
+
+  <text x="640" y="380" text-anchor="middle" font-family="微软雅黑, Microsoft YaHei, sans-serif" font-size="20" fill="#FFFFFF">{{SUBTITLE}}</text>
+
+  <text x="640" y="550" text-anchor="middle" font-family="微软雅黑, Microsoft YaHei, sans-serif" font-size="14" fill="#FFFFFF">{{DATE}}</text>
+</svg>

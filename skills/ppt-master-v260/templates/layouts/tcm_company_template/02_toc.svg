@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <!-- 整页底图：包含左侧红色区域、印章、目录标题、中国中药Logo、底部纹样 -->
+  <image x="0" y="0" width="1280" height="720" href="bg_toc.png" preserveAspectRatio="none"/>
+
+  <!-- 目录项 - 在右侧白色区域，继续右移避开底图的"目录"文字 -->
+  <text x="660" y="280" font-family="微软雅黑, Microsoft YaHei, sans-serif" font-size="20" fill="#1A1A1A">{{TOC_ITEM_1}}</text>
+  <text x="660" y="340" font-family="微软雅黑, Microsoft YaHei, sans-serif" font-size="20" fill="#1A1A1A">{{TOC_ITEM_2}}</text>
+  <text x="660" y="400" font-family="微软雅黑, Microsoft YaHei, sans-serif" font-size="20" fill="#1A1A1A">{{TOC_ITEM_3}}</text>
+  <text x="660" y="460" font-family="微软雅黑, Microsoft YaHei, sans-serif" font-size="20" fill="#1A1A1A">{{TOC_ITEM_4}}</text>
+</svg>

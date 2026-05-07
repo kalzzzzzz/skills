@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <!-- 整页底图：包含顶部/底部纹样条、中国中药Logo -->
+  <image x="0" y="0" width="1280" height="720" href="bg_content.png" preserveAspectRatio="none"/>
+
+  <!-- 页面标题 - 序号融入标题，格式为"序号  标题" -->
+  <text x="60" y="90" font-family="微软雅黑, Microsoft YaHei, sans-serif" font-size="28" font-weight="bold" fill="#1A1A1A">{{PAGE_TITLE}}</text>
+
+  <line x1="60" y1="110" x2="800" y2="110" stroke="#D80C18" stroke-width="1"/>
+
+  <!-- 内容区域占位 -->
+  <rect x="60" y="140" width="1160" height="520" fill="#FAFAFA" rx="4" fill-opacity="0"/>
+  <text x="640" y="410" text-anchor="middle" font-family="微软雅黑, Microsoft YaHei, sans-serif" font-size="16" fill="#B0B0B0">{{CONTENT_AREA}}</text>
+</svg>
